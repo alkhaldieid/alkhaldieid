@@ -1,0 +1,38 @@
+* 🔬 AI Researcher | Autonomous Driving Enthusiast | Developer
+
+I'm Eid Alkhaldi, a dedicated AI researcher and developer with a Ph.D. in Electrical Engineering, specializing in artificial intelligence and autonomous systems. My work spans over eight years of academic research and industry experience, with a strong focus on leveraging AI for innovative solutions in various domains, including medical image processing and autonomous driving technology.
+
+* 🚀 Key Projects:
+** NMK Autonomous Driver
+   Co-founder and Senior AI Consultant at NMK, where I spearheaded the development of AI-driven autonomous driving technologies. My contributions include enhancing safety features such as an Autonomous Emergency Stop system and optimizing development workflows that significantly improved team productivity.
+   - [[https://nmk.sa][NMK Autonomous Driver]]
+
+** Histology Image Classification
+   Developed and published AI models for the classification of histology images, achieving state-of-the-art results. These models are designed for breast cancer detection and have been open-sourced to contribute to the scientific community.
+   - [[https://github.com/alkhaldieid/iciar][Histology Image Classification]]
+
+** Emacs Configuration for Researchers
+   Created a minimal and feature-rich Emacs configuration tailored specifically for graduate students and researchers. This setup optimizes the workflow for writing dissertations and managing research projects.
+   - [[https://github.com/alkhaldieid/.emacs.d][Emacs Configuration for Researchers]]
+
+* 💼 Experience:
+** AI Consultant at NMK
+   Led AI research and development, focusing on autonomous driving technology.
+** Ph.D. Researcher at University of Toledo
+   Published multiple peer-reviewed articles on AI, including work on ensemble optimization for medical image classification.
+
+* 🎓 Education:
+** Ph.D. in Electrical Engineering - University of Toledo
+** M.S. in Electrical Engineering - University of Toledo
+** B.S. in Electrical Engineering - Oklahoma State University
+
+* 🛠️ Skills:
+** Languages: 
+   - Python, C++, Matlab
+** AI Frameworks:
+   - TensorFlow, PyTorch, Keras
+** Tools:
+   - OpenCV, MATLAB, Linux
+
+* 🌐 Connect with Me:
+** [[https://www.linkedin.com/in/eid-alkhaldi-ph-d-38a10212a/][LinkedIn]]
