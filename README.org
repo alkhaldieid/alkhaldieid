@@ -13,13 +13,19 @@ I'm Eid Alkhaldi, a dedicated AI researcher and developer with a Ph.D. in Electr
 
 ** Emacs Configuration for Researchers
    Created a minimal and feature-rich Emacs configuration tailored specifically for graduate students and researchers. This setup optimizes the workflow for writing dissertations and managing research projects.
-   - [[https://github.com/alkhaldieid/.emacs.d][Emacs Configuration for Researchers]]
+   - [[https://github.com/alkhaldieid/new_emacs][Emacs Configuration for Researchers]]
+
+** Auto Report Automation Tool
+   As Deputy Site Manager, I was tasked with creating daily progress reports for governmental agencies, which were image-heavy and time-consuming using MS Word. To solve this, I automated the entire process using **LaTeX** and **Python**. With encouragement from my colleague **Ali Alzahrani**, I developed a tool that generates a PDF report in under 5 seconds, reducing the task from an hour of manual work to a few seconds.
+   - The tool is now available for free on GitHub: [[https://github.com/alkhaldieid/auto_report][Auto Report Automation Tool]]
 
 * 💼 Experience:
 ** AI Consultant at NMK
    Led AI research and development, focusing on autonomous driving technology.
 ** Ph.D. Researcher at University of Toledo
    Published multiple peer-reviewed articles on AI, including work on ensemble optimization for medical image classification.
+** Deputy Site Manager at Alhabib Trading Company
+   Oversaw construction project operations and implemented automated reporting systems to enhance productivity and reduce delays.
 
 * 🎓 Education:
 ** Ph.D. in Electrical Engineering - University of Toledo
